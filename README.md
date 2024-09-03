@@ -1,10 +1,9 @@
 <div class="markdown-heading" dir="auto">
-<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm MD UMAR FAROOWUE</h1>
+<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm MD UMAR FAROOQUE</h1>
 
 <div class="markdown-heading" dir="auto">
 
 
-- 👋 Hi, I’m MD UMAR FAROOQUE
 - 👀 I’m interested in ... connecting to Discuss coding challenges, Industry trends, or Any exciting opportunities
 - 🌱 I’m currently learning ..Full Stack Development
 - 💞️ I’m looking to collaborate on ... Continuous learning, Exploring new technologies, and Collaborating with like-minded Individuals in the field of computer science
